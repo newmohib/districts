@@ -1,0 +1,317 @@
+[
+ {
+   "id": 1,
+   "district_name": "'Dhaka'",
+   "division_id": 1
+ },
+ {
+   "id": 2,
+   "district_name": "'Brahmanbaria'",
+   "division_id": 2
+ },
+ {
+   "id": 3,
+   "district_name": "'Bagherhat'",
+   "division_id": 7
+ },
+ {
+   "id": 4,
+   "district_name": "'Bandarban'",
+   "division_id": 2
+ },
+ {
+   "id": 5,
+   "district_name": "'Barguna'",
+   "division_id": 3
+ },
+ {
+   "id": 6,
+   "district_name": "'Barishal'",
+   "division_id": 3
+ },
+ {
+   "id": 7,
+   "district_name": "'Bhola'",
+   "division_id": 3
+ },
+ {
+   "id": 8,
+   "district_name": "'Bogra'",
+   "division_id": 5
+ },
+ {
+   "id": 9,
+   "district_name": "'C. Nawabganj'",
+   "division_id": 5
+ },
+ {
+   "id": 10,
+   "district_name": "'Chandpur'",
+   "division_id": 2
+ },
+ {
+   "id": 11,
+   "district_name": "'Chittagong'",
+   "division_id": 2
+ },
+ {
+   "id": 12,
+   "district_name": "'Chuadanga'",
+   "division_id": 7
+ },
+ {
+   "id": 13,
+   "district_name": "'Comilla'",
+   "division_id": 2
+ },
+ {
+   "id": 14,
+   "district_name": "'Dinajpur'",
+   "division_id": 6
+ },
+ {
+   "id": 15,
+   "district_name": "'Faridpur'",
+   "division_id": 1
+ },
+ {
+   "id": 16,
+   "district_name": "'Feni'",
+   "division_id": 2
+ },
+ {
+   "id": 17,
+   "district_name": "'Gaibandha'",
+   "division_id": 6
+ },
+ {
+   "id": 18,
+   "district_name": "'Gazipur'",
+   "division_id": 1
+ },
+ {
+   "id": 19,
+   "district_name": "'Gopalganj'",
+   "division_id": 1
+ },
+ {
+   "id": 20,
+   "district_name": "'Habiganj'",
+   "division_id": 4
+ },
+ {
+   "id": 21,
+   "district_name": "'Jamalpur'",
+   "division_id": 1
+ },
+ {
+   "id": 22,
+   "district_name": "'Jessore'",
+   "division_id": 7
+ },
+ {
+   "id": 23,
+   "district_name": "'Jhalokathi'",
+   "division_id": 3
+ },
+ {
+   "id": 24,
+   "district_name": "'Jhenaidah'",
+   "division_id": 7
+ },
+ {
+   "id": 25,
+   "district_name": "'Joypurhat'",
+   "division_id": 5
+ },
+ {
+   "id": 26,
+   "district_name": "'Khagrachari'",
+   "division_id": 2
+ },
+ {
+   "id": 27,
+   "district_name": "'Khulna'",
+   "division_id": 7
+ },
+ {
+   "id": 28,
+   "district_name": "'Kishoreganj'",
+   "division_id": 1
+ },
+ {
+   "id": 29,
+   "district_name": "'Kurigram'",
+   "division_id": 6
+ },
+ {
+   "id": 30,
+   "district_name": "'Kushtia'",
+   "division_id": 7
+ },
+ {
+   "id": 31,
+   "district_name": "'Lalmonirhat'",
+   "division_id": 6
+ },
+ {
+   "id": 32,
+   "district_name": "'Laxmipur'",
+   "division_id": 2
+ },
+ {
+   "id": 33,
+   "district_name": "'Madaripur'",
+   "division_id": 1
+ },
+ {
+   "id": 34,
+   "district_name": "'Magura'",
+   "division_id": 7
+ },
+ {
+   "id": 35,
+   "district_name": "'Manikganj'",
+   "division_id": 1
+ },
+ {
+   "id": 36,
+   "district_name": "'Meherpur'",
+   "division_id": 7
+ },
+ {
+   "id": 37,
+   "district_name": "'Moulvibazar'",
+   "division_id": 4
+ },
+ {
+   "id": 38,
+   "district_name": "'Munshiganj'",
+   "division_id": 1
+ },
+ {
+   "id": 39,
+   "district_name": "'Mymensingh'",
+   "division_id": 1
+ },
+ {
+   "id": 40,
+   "district_name": "'Naogaon'",
+   "division_id": 5
+ },
+ {
+   "id": 41,
+   "district_name": "'Narail'",
+   "division_id": 7
+ },
+ {
+   "id": 42,
+   "district_name": "'Narayanganj'",
+   "division_id": 1
+ },
+ {
+   "id": 43,
+   "district_name": "'Narshingdi'",
+   "division_id": 1
+ },
+ {
+   "id": 44,
+   "district_name": "'Natore'",
+   "division_id": 5
+ },
+ {
+   "id": 45,
+   "district_name": "'Netrakona'",
+   "division_id": 1
+ },
+ {
+   "id": 46,
+   "district_name": "'Nilphamari'",
+   "division_id": 6
+ },
+ {
+   "id": 47,
+   "district_name": "'Noakhali'",
+   "division_id": 2
+ },
+ {
+   "id": 48,
+   "district_name": "'Pabna'",
+   "division_id": 5
+ },
+ {
+   "id": 49,
+   "district_name": "'Panchagarh'",
+   "division_id": 6
+ },
+ {
+   "id": 50,
+   "district_name": "'Patuakhali'",
+   "division_id": 3
+ },
+ {
+   "id": 51,
+   "district_name": "'Perojpur'",
+   "division_id": 3
+ },
+ {
+   "id": 52,
+   "district_name": "'Rajbari'",
+   "division_id": 1
+ },
+ {
+   "id": 53,
+   "district_name": "'Rajshahi'",
+   "division_id": 5
+ },
+ {
+   "id": 54,
+   "district_name": "'Rangamati'",
+   "division_id": 2
+ },
+ {
+   "id": 55,
+   "district_name": "'Rangpur'",
+   "division_id": 6
+ },
+ {
+   "id": 56,
+   "district_name": "'Satkhira'",
+   "division_id": 7
+ },
+ {
+   "id": 57,
+   "district_name": "'Serajganj'",
+   "division_id": 5
+ },
+ {
+   "id": 58,
+   "district_name": "'Shariatpur'",
+   "division_id": 1
+ },
+ {
+   "id": 59,
+   "district_name": "'Sherpur'",
+   "division_id": 1
+ },
+ {
+   "id": 60,
+   "district_name": "'Sunamganj'",
+   "division_id": 4
+ },
+ {
+   "id": 61,
+   "district_name": "'Sylhet'",
+   "division_id": 4
+ },
+ {
+   "id": 62,
+   "district_name": "'Tangail'",
+   "division_id": 1
+ },
+ {
+   "id": 63,
+   "district_name": "'Thakurgaon'",
+   "division_id": 6
+ }
+]
